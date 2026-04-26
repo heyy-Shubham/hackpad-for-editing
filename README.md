@@ -28,3 +28,16 @@ Author
 
 Shubham Raj (heyy_shubham)
 GitHub: https://github.com/heyy-shubham
+
+How to Use
+1. Connect the device : Connect the macro pad to our computer using a USB cable.
+2. Upload Firmeware (via PlatformIO) : Open our project in vs code, go to the platformIO sidebar,and click on upload to flash the firmware into the device
+3. Configure Keys : Map the keys to your preferred shortcuts by editing the keymap file in your source code
+4. Use it : Start using the device to speed up our workflow in editing or codeing software 
+
+
+Why i made this 
+
+i build this project beacuse i found my self constantly repeating the same shortcuts while coding and editing . I wanted to create a compact , customizable  solution the could streamlinemy workflow and and make it much faster.
+
+
