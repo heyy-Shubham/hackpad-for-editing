@@ -1,31 +1,30 @@
 Project - Hackpad For Editing
 
-i made this thing using raspbarry pi pico and i code this mocro controllar using PlatformIO IDE extension inn Visual Studio Code . 
-It is designed for efficent code editing and embedded development workflows.
+I made this thing using Raspberry Pi Pico, and I coded this microcontroller using PlatformIO IDE extension in Visual Studio Code.
+It is designed for efficient code editing and embedded development workflows.
 
-TEch StAcK
-       \ PlatformeIO IDE
-       \ c\c++
-       \ Visual Studio Code
+Tech Stack
 
+- PlatformIO IDE
+- C/C++
+- Visual Studio Code
 
+Features
 
-FeATuReS
-       \ Fast light waight
-       \ Organized project structure
-       \ Easy build and upload support using PlatformIO extension
-       \ Build and uplod support using platformIO
+- Fast and lightweight
+- Organized project structure
+- Easy build and upload support using PlatformIO extension
 
+Components
 
+- Custom made PCB
+- Raspberry Pi Pico
+- Female Header Pins
+- Cherry MX Switch
+- Encoder
+- 0.91 inch OLED Display
 
-CompOnEnTs
-       \ Custam made PCB 
-       \ Raspberry Pi pico 
-       \ Female Header Pins
-       \ SW_Cherry_mx SWitch 
-       \ ENcoder 
-       \ 0.91 inche OLED Display
+Author
 
- AUTHOR
- Shubham raj (heyy_shubam)
- GitHUb: https://github.com/heyy-shubham
+Shubham Raj (heyy_shubham)
+GitHub: https://github.com/heyy-shubham
