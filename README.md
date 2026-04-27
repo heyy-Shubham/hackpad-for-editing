@@ -4,7 +4,7 @@ I will make this device using 9 sw_cherry_mx (switch) and encoder and 0.91 oled 
 just plug and enhance editing leval build for editors
 
 
-|[Hackpad](Assets/20260427_140940.jpg)
+![Hackpad](Assets/20260427_140940.jpg)
 
 ## What does this do
 9 sw_cherry_mx mechanichl switch , Every switch maped editing shortcut 
@@ -50,9 +50,12 @@ Firamware using PlatformIO + keyboard.h in raspbarry pi pico micro controllar
  2. Add Extension PlatformIO Extension
  3. Select Board And install Firamware
 
+##Poster
+![Poster](Assets/HACKPAD_20260427_234238_0000.png)
 
 
-## PCB 
+
+## PCB
 ![PCB](Assets/Hackpad.png)
 
 ## CAD
