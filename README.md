@@ -70,7 +70,7 @@ Just plug and start editing.
 
 
 
-![PCB](Assets/Screenshot 2026-04-27 134819.png)
+![PCB](Assets/pcbjpg)
 
 
 
