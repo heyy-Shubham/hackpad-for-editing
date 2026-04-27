@@ -70,8 +70,7 @@ Just plug and start editing.
 
 
 
-![PCB](Screenshot 2026-04-27 134819.png)
-
+![PCB](Assests/Screenshot 2026-04-27 134819.png)
 
 
 
