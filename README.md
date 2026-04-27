@@ -75,7 +75,7 @@ Just plug and start editing.
 
 
 
-![Case](Assests/20260427_140940.jpg)
+![Case](Screenshort 2026-04-27 134819.png)
 
 
 
