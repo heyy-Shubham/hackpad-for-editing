@@ -70,7 +70,7 @@ Just plug and start editing.
 
 
 
-![PCB](Assets/pcbjpg)
+![PCB](Assets/haclpad_pcb_jpg)
 
 
 
