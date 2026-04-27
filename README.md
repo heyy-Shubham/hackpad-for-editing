@@ -58,7 +58,7 @@ Just plug and start editing.
 
 
 
-## 🚀 How to Flash
+## How to Flash
 
 1. Install [VS Code](https://code.visualstudio.com/) + PlatformIO extension
 2. Clone or download this repo
