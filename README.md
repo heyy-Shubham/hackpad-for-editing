@@ -46,20 +46,20 @@ Firamware using PlatformIO + keyboard.h in raspbarry pi pico micro controllar
 
 
 ## Firamware Flash in Respberry pi pico
- 1. install [vs code](https://code.visualstudio.com/)
+ 1. install vs code (https://code.visualstudio.com/)
  2. Add Extension PlatformIO Extension
  3. Select Board And install Firamware
 
 
 
 ## PCB 
-|[PCB](Assets/Hackpad.png)
+![PCB](Assets/Hackpad.png)
 
-
+## CAD
 ![Case](Assets/{22AD9E3E-82CF-440B-9E48-9809F0ACCEAE}.png)
 
 
 ##Author
-Shubham Raj - [@heyy-Shubham](https://github.com/heyy-shubham)
+Shubham Raj - @heyy-Shubham(https://github.com/heyy-shubham)
 
 
