@@ -53,11 +53,10 @@ Firamware using PlatformIO + keyboard.h in raspbarry pi pico micro controllar
 
 
 ## PCB 
-|[PCB](Assets/hackpad_pcb_jpg)
+|[PCB](Assets/Hackpad.png)
 
 
-
-|[Case](Assets/{22AD9E3E-440B-9E48-9809F0ACCEAE}.png)
+![Case](Assets/{22AD9E3E-82CF-440B-9E48-9809F0ACCEAE}.png)
 
 
 ##Author
