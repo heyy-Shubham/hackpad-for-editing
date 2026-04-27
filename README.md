@@ -70,12 +70,12 @@ Just plug and start editing.
 
 
 
-![PCB](Assests/Screenshot 2026-04-27 134819.png)
+![PCB](Screenshot 2026-04-27 134819.png)
 
 
 
 
-![Case](Screenshort 2026-04-27 134819.png)
+![Case](Assests/20260427_140940.jpg)
 
 
 
