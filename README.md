@@ -5,7 +5,7 @@ Just plug and start editing.
 
 
 
-![Hackpad](Assests/{4853B936-79CA-4EE4-9DD8-A8C7A89B42EC}.png)
+![Hackpad](Assets/20260427_140940.jpg)
 
 
 
@@ -77,7 +77,7 @@ Just plug and start editing.
 
 
 
-![Case](Assests/20260427_140940.jpg)
+![Case](Assets/{22AD9E3E-82CF-440B-9E48-9809F0ACCEAE}.png)
 
 
 
