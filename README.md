@@ -15,4 +15,22 @@ Plug-and-play USB HID — no drivers needed.
 - Works as standard USB keyboard (Pro Micro + Keyboard.h)
 - INPUT_PULLUP — no external resistors needed
 
-## ⌨️ Key Layout
+## Key Layout
+hackpad-for-editing/
+├── Firmware/   → main.cpp
+├── CAD/        → STL files
+├── PCB/        → KiCad files
+└── assets/     → Photos
+
+
+
+## How to Flash
+
+1. Install PlatformIO in VS Code
+2. Open Firmware/ folder
+3. Connect Pro Micro via USB
+4. Click Upload ▶️
+
+## Author
+
+**Shubham Raj** — [@heyy-Shubham](https://github.com/heyy-Shubham)
