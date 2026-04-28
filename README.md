@@ -63,7 +63,7 @@ Firamware using PlatformIO + keyboard.h in raspbarry pi pico micro controllar
  3. Select Board And install Firamware
 
 # Fallout Zine Page
-![Poster](Assets/HACKPAD_20260427_234238_0000.png)
+![Poster](Assets/Magzine_page.png)
 
 
 
