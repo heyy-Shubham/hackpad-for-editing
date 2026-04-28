@@ -1,4 +1,4 @@
-#Project Name ##Hackpad For Editing
+#Hackpad For Editing
 
 I will make this device using 9 sw_cherry_mx (switch) and encoder and 0.91 oled display
 just plug and enhance editing leval build for editors
@@ -50,7 +50,7 @@ Firamware using PlatformIO + keyboard.h in raspbarry pi pico micro controllar
  2. Add Extension PlatformIO Extension
  3. Select Board And install Firamware
 
-##Poster
+#Poster
 ![Poster](Assets/HACKPAD_20260427_234238_0000.png)
 
 
