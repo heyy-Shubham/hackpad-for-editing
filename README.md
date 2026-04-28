@@ -1,5 +1,12 @@
 ## Hackpad For Editing
 
+## Why I Built This
+
+As a video editor, I was tired of reaching across the keyboard
+for shortcuts like Undo, Redo, and Zoom constantly.
+I wanted a dedicated device that keeps my hands in the editing
+zone — so I built the Hackpad For Editing.
+
 
 
 
